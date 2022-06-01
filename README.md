@@ -6,7 +6,7 @@ four of the year one curriculum, I am currently learning Python.
 Alongside Python, I continued to reinforce and expand my skills in C and shell
 scripting. The following are the specific list of projects:
 
-* [0x00. Python - Hello, World](./0x00-python-hello_world)
+* [0x00-python-hello_world](./0x00-python-hello_world)
 * [0x01-python-if_else_loops_functions](./0x01-python-if_else_loops_functions)
 
 ## Author :
