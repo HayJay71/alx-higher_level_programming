@@ -11,7 +11,7 @@ scripting. The following are the specific list of projects:
 
 ## Author :
 
-* **Joshua Ajayi** <[HayJay71](https://github.com/HayJay71)>
+* **Joshua Ajayi** <[HayJay71](https://www.linkedin.com/in/hayjay71/)>
 
 ## Acknowledgements :pray:
 
